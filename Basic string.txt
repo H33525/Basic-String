@@ -1,0 +1,8 @@
+print(type("hi hello there 24! "))
+username='Supercodes'
+password='Supersecret'
+long_string= '''
+wow
+o o
+---
+'''
